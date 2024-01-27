@@ -23,9 +23,13 @@
       "modern"
     ],
     "globalMetadata": {
-      "_appName": "lestarter",
-      "_appTitle": "lestarter",
-      "_enableSearch": true,
+      "_appName": " LE Starter",
+      "_appTitle": " LE Starter",
+      "_appLogoUrl": "https://dev.deltlabs.com",      
+      "_appLogoPath": "images/custom.svg",
+      "_appFaviconPath": "images/custom.ico",
+      "_appFooter":"<a href=\"https://deltlabs.com\">DeLT Labs GmbH</a> <a href=\"/imprint.html\">Impressum</a>",      
+      "_disableContribution": true,
       "pdf": false
     }
   }
