@@ -2,7 +2,7 @@
 _layout: landing
 ---
 
-# This is the **HOMEPAGE**.
+# This is the **LE Starter**.
 
 Starter...
 
